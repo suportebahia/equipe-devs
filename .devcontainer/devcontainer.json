@@ -1,9 +1,6 @@
 {
   "name": "Equipe SBahia - AI Agents",
   "image": "mcr.microsoft.com/devcontainers/javascript-node:20",
-  "features": {
-    "ghcr.io/devcontainers/features/github-cli:1"
-  },
   "postCreateCommand": "curl -fsSL https://opencode.ai/install | bash",
   "customizations": {
     "vscode": {
