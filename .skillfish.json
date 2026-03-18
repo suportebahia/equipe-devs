@@ -1,6 +1,9 @@
 {
   "name": "equipe-sbahia",
-  "description": "Arquitetura de equipes de alto desempenho para desenvolvimento de sistemas web",
+  "description": "Equipe SBahia - Orquestrador de agentes IA para projetos de desenvolvimento",
   "author": "Fernando Rocha",
-  "version": "1.0.0"
+  "version": "1.0.0",
+  "skillsPath": "skills",
+  "internalPath": ".internal-skills",
+  "autoLoad": true
 }
